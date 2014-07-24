@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid1.png</Source>
+      <Name>asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\asteroid1.xnb</Output>
+      <Time>2014-01-12T07:00:51.3216119+05:30</Time>
+    </Item>
+    <Item>
+      <Source>asteroid2.png</Source>
+      <Name>asteroid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\asteroid2.xnb</Output>
+      <Time>2014-01-12T07:00:51.3246133+05:30</Time>
+    </Item>
+    <Item>
+      <Source>asteroid3.png</Source>
+      <Name>asteroid3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\asteroid3.xnb</Output>
+      <Time>2014-01-12T07:00:51.3276155+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\ball.xnb</Output>
+      <Time>2014-01-12T07:00:51.337625+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bar.png</Source>
+      <Name>bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\bar.xnb</Output>
+      <Time>2014-01-12T07:00:51.3396264+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\bullet.xnb</Output>
+      <Time>2014-01-12T07:00:51.3416244+05:30</Time>
+    </Item>
+    <Item>
+      <Source>dottedball.png</Source>
+      <Name>dottedball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\dottedball.xnb</Output>
+      <Time>2014-01-12T07:00:51.3436257+05:30</Time>
+    </Item>
+    <Item>
+      <Source>greenRect.jpg</Source>
+      <Name>greenRect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\greenRect.xnb</Output>
+      <Time>2014-01-12T06:18:50.758508+05:30</Time>
+    </Item>
+    <Item>
+      <Source>logo.jpg</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\logo.xnb</Output>
+      <Time>2014-01-12T07:00:51.3486293+05:30</Time>
+    </Item>
+    <Item>
+      <Source>redRect.jpg</Source>
+      <Name>redRect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\redRect.xnb</Output>
+      <Time>2014-01-12T06:18:50.7625107+05:30</Time>
+    </Item>
+    <Item>
+      <Source>satellite.png</Source>
+      <Name>satellite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\satellite.xnb</Output>
+      <Time>2014-01-12T07:00:48.4978859+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ship.png</Source>
+      <Name>ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\ship.xnb</Output>
+      <Time>2014-01-12T08:34:05.2450296+05:30</Time>
+    </Item>
+    <Item>
+      <Source>startrek.png</Source>
+      <Name>startrek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\startrek.xnb</Output>
+      <Time>2014-01-12T08:33:47.5454829+05:30</Time>
+    </Item>
+    <Item>
+      <Source>yellowRect.jpg</Source>
+      <Name>yellowRect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\yellowRect.xnb</Output>
+      <Time>2014-01-12T06:18:50.7685147+05:30</Time>
+    </Item>
+    <Item>
+      <Source>worm_hole.jpg</Source>
+      <Name>worm_hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\worm_hole.xnb</Output>
+      <Time>2014-01-12T06:52:19.8486299+05:30</Time>
+    </Item>
+    <Item>
+      <Source>sunrise_space.jpg</Source>
+      <Name>sunrise_space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\sunrise_space.xnb</Output>
+      <Time>2014-01-12T06:52:21.3166913+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Milky_Way.jpg</Source>
+      <Name>Milky_Way</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\Milky_Way.xnb</Output>
+      <Time>2014-01-12T06:52:21.7023065+05:30</Time>
+    </Item>
+    <Item>
+      <Source>back.jpg</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\back.xnb</Output>
+      <Time>2014-01-12T07:00:51.3316182+05:30</Time>
+    </Item>
+    <Item>
+      <Source>back2.jpg</Source>
+      <Name>back2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\back2.xnb</Output>
+      <Time>2014-01-12T07:00:51.3346199+05:30</Time>
+    </Item>
+    <Item>
+      <Source>down.png</Source>
+      <Name>down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\down.xnb</Output>
+      <Time>2014-01-12T08:33:27.6436779+05:30</Time>
+    </Item>
+    <Item>
+      <Source>mist.png</Source>
+      <Name>mist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\mist.xnb</Output>
+      <Time>2014-01-12T07:00:42.8029014+05:30</Time>
+    </Item>
+    <Item>
+      <Source>up.png</Source>
+      <Name>up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\up.xnb</Output>
+      <Time>2014-01-12T08:33:05.4427184+05:30</Time>
+    </Item>
+    <Item>
+      <Source>right.wav</Source>
+      <Name>right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\right.xnb</Output>
+      <Time>2014-01-12T07:00:42.8038998+05:30</Time>
+    </Item>
+    <Item>
+      <Source>wrong.wav</Source>
+      <Name>wrong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\wrong.xnb</Output>
+      <Time>2014-01-12T07:00:51.3176084+05:30</Time>
+    </Item>
+    <Item>
+      <Source>yellowhole.png</Source>
+      <Name>yellowhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\yellowhole.xnb</Output>
+      <Time>2014-01-12T09:30:39.8743092+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bluehole.png</Source>
+      <Name>bluehole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\bluehole.xnb</Output>
+      <Time>2014-01-12T09:30:41.084708+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-01-12T09:59:28.1126309+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0B251D3D-9C1F-4180-B367-D6033497FBE9}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Nishant Kumar\Documents\Visual Studio 2012\Projects\hyperSpaceDrive\hyperSpaceDrive\hyperSpaceDriveLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-10T19:56:21.0490386+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
